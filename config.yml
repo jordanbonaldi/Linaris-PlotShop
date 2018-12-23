@@ -1,0 +1,11 @@
+sign:
+  - "&bParcelle de"
+  - "&a[sizeX] x [sizeY] x [sizeZ]"
+  - "&b[price] [currencyName]"
+  - "[state]"
+state:
+  - "&aDISPONIBLE"
+  - "&4INDISPONIBLE"
+greetMessage: "&e* Vous entrez dans la parcelle de [playerName]"
+farewellMessage: "&e* Vous sortez de la parcelle de [playerName]"
+maxPlotsCountPerPlayer: 1

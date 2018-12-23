@@ -1,0 +1,13 @@
+author: Neferett
+database: true
+main: net.neferett.plotshop.Plotshop
+name: PlotShop
+startup: postworld
+version: 2.1.0
+depend: [WorldEdit, WorldGuard, Vault]
+commands:
+  plotshop:
+    usage: /plotshop
+    aliases: [ps, plot]
+  vente:
+    usage: /vente
